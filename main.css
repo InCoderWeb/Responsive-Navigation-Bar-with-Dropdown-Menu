@@ -11,6 +11,10 @@
 }
 /* --------------------- InNavbar Start --------------------- */
 
+body{
+  background: #fff!important;
+}
+
 .inNavbar {
     width: 100%;
     display: flex;
